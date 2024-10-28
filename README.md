@@ -1,6 +1,6 @@
 <p align="center">  
     <img src="/images/ip-big.png"/>
-    <h2 align="center"><b>IP Adress Tracker</b></h2>      
+    <h2 align="center"><b>IP Address Tracker</b></h2>      
   <p align="center">
     <p style align="center">A solution to the IP Address Tracker challenge on Frontend Mentor</p> 
   </p>
@@ -16,7 +16,7 @@ It uses the Yandex.Maps API and ipfy.com.
 
 # ✨About the project
 
-**IP Adress Tracker** is a responsive website that allows users to:
+**IP Address Tracker** is a responsive website that allows users to:
 - See their own IP Address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 - View the optimal layout for each page depending on their device's screen size
